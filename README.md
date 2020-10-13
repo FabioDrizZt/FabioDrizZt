@@ -22,4 +22,7 @@
     <a href="https://github.com/FabioDrizZt">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="20" width="20" />
     </a>
+    <a href="mailto:ing.fabio.arg@gmail.com">
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="20" width="20" />
+    </a>
 <p/>
