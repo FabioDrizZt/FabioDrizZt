@@ -25,4 +25,7 @@
     <a href="mailto:ing.fabio.arg@gmail.com">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="20" width="20" />
     </a>
+    <a href="https://wa.me/543885148954?text=Hola,%20vi%20tu%20perfil%20en%20Github!">
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" height="20" width="20" />
+    </a>
 <p/>
