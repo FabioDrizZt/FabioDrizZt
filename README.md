@@ -16,7 +16,7 @@
     <a href="https://www.codewars.com/users/FabioDrizZt">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg" height="20" width="20" />
     </a>
-    <a href="https://hackerrank.com/FabioDrizZt">
+    <a href="https://www.hackerrank.com/FabioDrizZt">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" height="20" width="20" />
     </a>    
     <a href="https://twitter.com/FabioDrizZt">
