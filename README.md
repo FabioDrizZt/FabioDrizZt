@@ -34,6 +34,9 @@
     <a href="https://www.facebook.com/FabioDrizZt/">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="20" width="20" />
     </a>
+    <a href="https://m.me/FabioDrizZt/">
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/messenger.svg" height="20" width="20" />
+    </a>
     <a href="https://www.instagram.com/FabioDrizZt/">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="20" width="20" />
     </a>
