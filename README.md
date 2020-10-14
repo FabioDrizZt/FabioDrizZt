@@ -7,7 +7,7 @@
 - 📫 How to reach me: ing.fabio.arg@gmail.com ~ (+54) 388 514 8954
 - 😄 Hobbies: Currently playing Clash Royale, Overwatch & CS:GO.
 
-<h2> Me podes contactar en: </h2>
+<h2> Me podes encontrar en: </h2>
 
 <p>
     <a href="https://www.linkedin.com/in/FabioDrizZt/">
@@ -27,5 +27,17 @@
     </a>
     <a href="https://wa.me/543885148954?text=Hola,%20vi%20tu%20perfil%20en%20Github!">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" height="20" width="20" />
+    </a>    
+    <a href="https://www.facebook.com/FabioDrizZt/">
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="20" width="20" />
+    </a>
+    <a href="https://www.instagram.com/FabioDrizZt/">
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="20" width="20" />
+    </a>
+    <a href="https://www.tumblr.com/blog/fabiodrizzt">
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tumblr.svg" height="20" width="20" />
+    </a>
+    <a href="https://www.sololearn.com/Profile/8888773">
+      <img align="center" src="https://th.bing.com/th/id/OIP.V0o8UnCsfEU4k5WnV1XTOwAAAA?pid=Api&rs=1" height="20" width="20" />
     </a>
 <p/>
