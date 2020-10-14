@@ -7,7 +7,7 @@
 - 📫 How to reach me: ing.fabio.arg@gmail.com ~ (+54) 388 514 8954
 - 😄 Hobbies: Currently playing Clash Royale, Overwatch & CS:GO.
 
-<h2> Me podes encontrar en: </h2>
+<h2> You can also find me on: </h2>
 
 <p>
     <a href="https://www.linkedin.com/in/FabioDrizZt/">
