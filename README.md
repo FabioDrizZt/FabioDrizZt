@@ -7,6 +7,11 @@
 - 📫 How to reach me: ing.fabio.arg@gmail.com ~ (+54) 388 514 8954
 - 😄 Hobbies: Currently playing Clash Royale, Overwatch & CS:GO.
 
+My last three projects:
+#Henry-Bank e-wallet: https://github.com/FabioDrizZt/Henry-Bank
+#Sports-Store e-commerce: https://github.com/FabioDrizZt/Sports-Store
+#Six-Beer Brewery e-commerce: https://github.com/FabioDrizZt/Brewery-Six-Beer
+
 <h2> You can also find me on: </h2>
 
 <p>
