@@ -9,9 +9,16 @@
 
 ## My last three projects:
 <ol>
-<li> Henry-Bank e-wallet: https://github.com/FabioDrizZt/Henry-Bank </li>
+    
+<li> 
+    <p>Henry-Bank e-wallet: https://github.com/FabioDrizZt/Henry-Bank</p>
+    <a  title="Promotional Video on YouTube" href="https://www.youtube.com/watch?v=t1KtkQB5uQ8"><img src="https://img.youtube.com/vi/t1KtkQB5uQ8/0.jpg" alt="Youtube video" width="128" height="128"></a>     
+</li>
+    
 <li> Sports-Store e-commerce: https://github.com/FabioDrizZt/Sports-Store </li>
+
 <li> Six-Beer Brewery e-commerce: https://github.com/FabioDrizZt/Brewery-Six-Beer </li>
+
 </ol>
 <h2> You can also find me on: </h2>
 
