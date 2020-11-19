@@ -5,7 +5,7 @@
 - 🔭 I’m Currently the head of practical work of Models and Simulation @ Catholic University of Santiago del Estero.
 - 🌱 I’m currently learning Micro Services with Express Gateway and React Native.
 - 📫 How to reach me: ing.fabio.arg@gmail.com ~ (+54) 388 514 8954
-- 😄 Hobbies: Currently playing Clash Royale, Overwatch & CS:GO.
+- 😄 Hobbies: Currently playing [Clash Royale](https://royaleapi.com/player/PQ8GVL90), Overwatch & CS:GO.
 
 ## My last three projects:
  
