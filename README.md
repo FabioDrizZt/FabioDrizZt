@@ -1,13 +1,12 @@
 ![img](https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/img.png)
 
-### Hi there, I’m Fabio D. Argañaraz 👋
+### Hola, soy Fabio D. Argañaraz 👋
 
-- 🔭 I’m Currently the head of practical work of Models and Simulation @ Catholic University of Santiago del Estero.
-- 🌱 I’m currently learning Micro Services with Express Gateway and React Native.
-- 📫 How to reach me: ing.fabio.arg@gmail.com ~ (+54) 388 514 8954
-- 😄 Hobbies: Currently playing [Clash Royale](https://royaleapi.com/player/PQ8GVL90), Overwatch & CS:GO.
+- 💻 Trabajo: actualmente como Profesor de Informática en Digital House
+- 📫 Como contactarme: ing.fabio.arg@gmail.com ~ (+54) 388 514 8954
+- 😄 Hobbies: Actualmente jugando [Clash Royale](https://royaleapi.com/player/PQ8GVL90), Overwatch & CS:GO.
 
-## My last three projects:
+## Mis últimos tres proyectos:
  
 # e-wallet mobile: https://github.com/FabioDrizZt/Henry-Bank
 ## Promotional Video:
