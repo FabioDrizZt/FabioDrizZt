@@ -1,6 +1,6 @@
 ![img](https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/img.png)
 
-### Hola, soy Fabio D. Argañaraz 👋
+### Hello, I'm Fabio D. Argañaraz 👋
 
 - 💻 Trabajo: actualmente como Profesor de Informática en Digital House
 - 📫 Como contactarme: ing.fabio.arg@gmail.com ~ (+54) 388 514 8954
