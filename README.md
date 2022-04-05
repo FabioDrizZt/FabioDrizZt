@@ -2,9 +2,9 @@
 
 ### Hello, I'm Fabio D. Argañaraz 👋
 
-- 💻 Trabajo: actualmente como Profesor de Informática en Digital House
-- 📫 Como contactarme: ing.fabio.arg@gmail.com ~ (+54) 388 514 8954
-- 😄 Hobbies: Actualmente jugando [Clash Royale](https://royaleapi.com/player/PQ8GVL90), Overwatch & CS:GO.
+- 💻 Work: currently as a Computer Science Teacher 
+- 📫 How to contact me: ing.fabio.arg@gmail.com ~ (+54) 388 514 8954
+- 😄 Hobby: Actualmente jugando [Clash Royale](https://royaleapi.com/player/PQ8GVL90), Overwatch & CS:GO.
 
 ## Mis últimos tres proyectos:
  
