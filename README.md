@@ -4,9 +4,9 @@
 
 - 💻 Work: currently as a Computer Science Teacher 
 - 📫 How to contact me: ing.fabio.arg@gmail.com ~ (+54) 388 514 8954
-- 😄 Hobby: Actualmente jugando [Clash Royale](https://royaleapi.com/player/PQ8GVL90), Overwatch & CS:GO.
+- 😄 Hobby: Actually playing [Clash Royale](https://royaleapi.com/player/PQ8GVL90), Overwatch & CS:GO.
 
-## Mis últimos tres proyectos:
+## My last three projects:
  
 # e-wallet mobile: https://github.com/FabioDrizZt/Henry-Bank
 ## Promotional Video:
