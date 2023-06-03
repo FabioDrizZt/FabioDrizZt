@@ -3,7 +3,7 @@
 ### Hello, I'm Fabio D. Argañaraz 👋
 
 - 💻 Work: currently as a Computer Science Teacher 
-- 📫 How to contact me: ing.fabio.arg@gmail.com ~ (+54) 388 514 8954
+- 📫 How to contact me: ing.fabio.arg@gmail.com ~ (+54) 388 310 4925
 - 😄 Hobby: Actually playing [Clash Royale](https://royaleapi.com/player/PQ8GVL90), Overwatch & CS:GO.
 
 ## My last three projects:
@@ -42,7 +42,7 @@
     <a href="mailto:ing.fabio.arg@gmail.com">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="20" width="20" />
     </a>
-    <a href="https://wa.me/543885148954?text=Hola,%20vi%20tu%20perfil%20en%20Github!">
+    <a href="https://wa.me/543883104925?text=Hola,%20vi%20tu%20perfil%20en%20Github!">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" height="20" width="20" />
     </a>    
     <a href="https://www.facebook.com/FabioDrizZt/">
