@@ -28,12 +28,12 @@
 - [HackerRank](https://www.hackerrank.com/FabioDrizZt)
 - [Twitter](https://twitter.com/FabioDrizZt)
 - [GitHub](https://github.com/FabioDrizZt)
-- Email: [ing.fabio.arg@gmail.com](mailto:ing.fabio.arg@gmail.com)
-- WhatsApp: [Message Me](https://wa.me/543885733294?text=Hola,%20vi%20tu%20perfil%20en%20Github!)
 - [Facebook](https://www.facebook.com/FabioDrizZt/)
 - [Messenger](https://m.me/FabioDrizZt/)
 - [Instagram](https://www.instagram.com/FabioDrizZt/)
 - [SoloLearn](https://www.sololearn.com/Profile/8888773)
+- Email: [ing.fabio.arg@gmail.com](mailto:ing.fabio.arg@gmail.com)
+- WhatsApp: [Message Me](https://wa.me/543885733294?text=Hola,%20vi%20tu%20perfil%20en%20Github!)
 
 ---
 
