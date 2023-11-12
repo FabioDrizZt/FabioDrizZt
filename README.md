@@ -6,8 +6,9 @@
 - 📧 **Contact:** ing.fabio.arg@gmail.com ~ (+54) 3885733294
 - 😄 **Hobby:** Currently enjoying [Clash Royale](https://royaleapi.com/player/PQ8GVL90), Overwatch & CS:GO.
 
-- Email: [ing.fabio.arg@gmail.com](mailto:ing.fabio.arg@gmail.com)
-- WhatsApp: [Message Me](https://wa.me/543885733294?text=Hola,%20vi%20tu%20perfil%20en%20Github!)
+### 📄 Curriculum Vitae
+
+Find my detailed CV [here](https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/Fabio-D-Argañaraz-Resume.pdf).
 
 ## Some of my Projects:
 
