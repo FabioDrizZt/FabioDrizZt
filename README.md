@@ -4,7 +4,7 @@
 
 - 💼 **Current Role:** Full Stack Developer | Computer Science Teacher
 - 📧 **Contact:** ing.fabio.arg@gmail.com ~ (+54) 3885733294
-- 😄 **Hobby:** Currently enjoying [Clash Royale](https://royaleapi.com/player/PQ8GVL90), Overwatch & CS:GO.
+- 😄 **Hobby:** Currently enjoying [Clash Royale](https://royaleapi.com/player/PQ8GVL90), Overwatch, Diablo 4 & Baldur's Gate 3.
 
 ### 📄 Curriculum Vitae
 
