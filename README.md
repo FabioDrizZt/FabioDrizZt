@@ -12,9 +12,6 @@
 ## Promotional Video:
 [![Click Here](https://img.youtube.com/vi/t1KtkQB5uQ8/0.jpg)](https://www.youtube.com/watch?v=t1KtkQB5uQ8) 
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t1KtkQB5uQ8?si=ws6v1NL0PnBJx12Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
  # e-commerce web: https://github.com/FabioDrizZt/Sports-Store 
  ## Promotional PDF:
 [![Click Here](https://i.imgur.com/zPYlynO.png)](https://drive.google.com/file/d/1E2S9S1wIcEggOzahfIlARxQIjqSEihGI/view?usp=sharing) 
