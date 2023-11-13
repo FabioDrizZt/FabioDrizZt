@@ -56,7 +56,7 @@
   width: 90%;
 }
 
-.area-de-form {
+.form-area {
   background: white;
   border-radius: 0px;
   border-radius: 2rem;
@@ -106,13 +106,13 @@ button p {
   font-weight: 300;
 }
 
-.estilo-input {
+.input-style {
   border: 1px solid #d3d3d3;
   height: 4rem;
   padding: 0rem 1rem 0rem 1rem;
 }
 
-.estilo-input-textarea {
+.input-style-textarea {
   border: 1px solid #d3d3d3;
   padding: 0.5rem 1rem 0.5rem 1rem;
 }
@@ -164,7 +164,7 @@ input:focus {
     width: 717px;
   }
 
-  .area-de-form .box-name-email {
+  .form-area .box-name-email {
     flex-direction: row;
   }
 
@@ -196,7 +196,7 @@ input:focus {
     width: 80vw;
   }
 
-  .area-de-form,
+  .form-area,
   .informacion-de-contacto {
     min-width: 450px;
     width: 35vw;

@@ -2,7 +2,7 @@ const nombre = document.querySelector('.input-nombre')
 const email = document.querySelector('.input-email')
 const tema = document.querySelector('.input-tema')
 const mensaje = document.querySelector('.input-mensaje')
-const formulario = document.querySelector('#formulario')
+const form = document.querySelector('#form')
 const boton = document.querySelector('.boton')
 
 let nombreValidado
@@ -10,7 +10,7 @@ let emailValidado
 let temaValidado
 let msjValidado
 
-/* -------------- Capturamos clases de formulario -------------- */
+/* -------------- Capturamos clases de form -------------- */
 const errorNombre = document.querySelector('.error-name')
 const errorEmail = document.querySelector('.error-email')
 const errorTema = document.querySelector('.error-tema')
@@ -38,7 +38,7 @@ mensaje.addEventListener('blur', () => {
   !msjValidado ? errorMensaje.style.visibility = 'visible' : errorMensaje.style.visibility = 'hidden'
 })
 
-formulario.addEventListener('submit', event => {
+form.addEventListener('submit', event => {
   event.preventDefault()
 
   !nombreValidado ? errorNombre.style.visibility = 'visible' : errorNombre.style.visibility = 'hidden'
@@ -81,7 +81,7 @@ const confirmarEnvio = () => {
   setTimeout(() => {
     boton.innerHTML = '<p>Enviado!</p>'
     boton.style.backgroundColor = 'green'
-    formulario.reset()
+    form.reset()
     boton.disabled = true
     boton.style.cursor = 'default'
   }, 1000)

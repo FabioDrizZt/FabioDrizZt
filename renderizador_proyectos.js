@@ -7,7 +7,7 @@ const proyectos = [
   },
   {
     title: 'HTML Forms',
-    imgUrl: 'img/htmlform.png',
+    imgUrl: 'img/htmlform.gif',
     url: 'https://fabiodrizzt.github.io/Formularios-en-HTML/',
     descripcion: 'Formularios HTML'
   },
@@ -19,13 +19,13 @@ const proyectos = [
   },
   {
     title: 'PseudoSelectores',
-    imgUrl: 'img/PseudoSelectores.webp',
+    imgUrl: 'img/PseudoSelectores.gif',
     url: 'https://fabiodrizzt.github.io/PseudoSelectores/',
     descripcion: 'PseudoSelectores'
   },
   {
     title: 'Pizza&Front',
-    imgUrl: 'img/pizza.png',
+    imgUrl: 'img/pizza.gif',
     url: 'https://fabiodrizzt.github.io/PizzaandFront/',
     descripcion: 'Pizza&Front'
   },
