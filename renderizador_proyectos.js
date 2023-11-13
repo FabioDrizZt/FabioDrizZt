@@ -1,7 +1,7 @@
 const proyectos = [
   {
     title: 'CV-Batman',
-    imgUrl: 'img/batman.webp',
+    imgUrl: 'img/batman.gif',
     url: 'https://fabiodrizzt.github.io/CV-Batman/',
     descripcion: 'CV-Batman'
   },
@@ -31,7 +31,7 @@ const proyectos = [
   },
   {
     title: 'Super Heroes',
-    imgUrl: 'img/superheroes.png',
+    imgUrl: 'img/sup.gif',
     url: 'https://fabiodrizzt.github.io/SuperHeroes/',
     descripcion: 'Super Heroes'
   },
@@ -40,6 +40,12 @@ const proyectos = [
     imgUrl: 'img/game.png',
     url: 'https://fabiodrizzt.github.io/GameShop/',
     descripcion: 'bolsa de juegos'
+  },
+  {
+    title: 'Manage',
+    imgUrl: 'img/Manage.svg',
+    url: 'https://fabiodrizzt.github.io/Manage/',
+    descripcion: 'Manage'
   },
   {
     title: 'Pet Shop',
@@ -52,6 +58,24 @@ const proyectos = [
     imgUrl: 'img/instafront.png',
     url: 'https://fabiodrizzt.github.io/InstaFront/',
     descripcion: 'logo instafront'
+  },
+  {
+    title: 'To Do List',
+    imgUrl: 'img/to-do-list-checklist.gif',
+    url: 'https://fabiodrizzt.github.io/Lista-de-Tareas/',
+    descripcion: 'To Do List'
+  },
+  {
+    title: "Barbie's tasks",
+    imgUrl: 'img/barbie.gif',
+    url: 'https://fabiodrizzt.github.io/Mi-Lista-de-Tareas-de-Barbie/',
+    descripcion: 'Barbie tasks'
+  },
+  {
+    title: 'Slide Puzzle 3x3',
+    imgUrl: 'img/slide-puzzle.gif',
+    url: 'https://fabiodrizzt.github.io/Slide-Puzzle-3x3/',
+    descripcion: 'Slide Puzzle'
   }
 ]
 
