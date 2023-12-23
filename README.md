@@ -11,6 +11,17 @@
 Find my detailed CV [here](https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/Fabio-D-Argañaraz-Resume.pdf).
 
 ## Some of my Projects:
+### <a href='https://c15-57-ft-react-agregarback.vercel.app/'> Animal Preservation - LATAM </a>
+
+<a href='https://c15-57-ft-react-agregarback.vercel.app/'>
+    <img src='https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/BannerPA.png' alt='Promotional Image'/> 
+</a>
+
+#### Promotional Video:
+<a href='https://www.youtube.com/watch?v=LI2rAvHT0Tk'>
+    <img src='https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/youtube.jpg' alt='promotional video'/>
+</a>
+
 
 ### [Henry-Bank](https://github.com/FabioDrizZt/Henry-Bank) - E-Wallet Mobile App
 #### Promotional Video:
