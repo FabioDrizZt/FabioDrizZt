@@ -120,3 +120,5 @@ Experienced Full Stack Developer with a solid background in web development and 
 - Java Course, SQL Course | Codeacademy, 2017.
 
 ---
+
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=FabioDrizZt&show_icons=true)
