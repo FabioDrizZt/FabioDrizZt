@@ -33,7 +33,7 @@ Find my detailed CV [here](https://raw.githubusercontent.com/FabioDrizZt/FabioDr
 
 ### [Brewery-Six-Beer](https://github.com/FabioDrizZt/Brewery-Six-Beer) - Six-Beer Brewery E-Commerce
 <p align='left'>
-    <img src='https://user-images.githubusercontent.com/65245824/95817516-0a599d80-0cf8-11eb-9eee-d9bdba249a6d.png' </img>  
+    <img src='https://user-images.githubusercontent.com/65245824/95817516-0a599d80-0cf8-11eb-9eee-d9bdba249a6d.png'>  
 </p>
 
 ## Connect with Me:
