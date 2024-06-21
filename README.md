@@ -7,9 +7,9 @@
 
 ## 📫 You Can Contact Me By:
 
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/fabiodrizzt) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/fabiodrizzt) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ing.fabio.arg@gmail.com?subject=Hello%20Fabio,%20From%20Github)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ing.fabio.arg@gmail.com?subject=Hello%20Fabio,%20From%20Github) &nbsp;
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/fabiodrizzt) &nbsp;
 
 ### 📄 Curriculum Vitae
 
