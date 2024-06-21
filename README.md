@@ -3,12 +3,46 @@
 ### Hi there, I'm Fabio D. Argañaraz! 👋
 
 - 💼 **Current Role:** Full Stack Developer | Computer Science Teacher
-- 📧 **Contact:** ing.fabio.arg@gmail.com ~ (+54) 3885733294
 - 😄 **Hobby:** Currently enjoying [Clash Royale](https://royaleapi.com/player/PQ8GVL90), Overwatch, Diablo 4 & Baldur's Gate 3.
+
+## 📫 You Can Contact Me By:
+
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/fabiodrizzt) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/fabiodrizzt) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ing.fabio.arg@gmail.com?subject=Hello%20Fabio,%20From%20Github)
 
 ### 📄 Curriculum Vitae
 
 Find my detailed CV [here](https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/Fabio-D-Argañaraz-Resume.pdf).
+
+## 💻 My Tech Stack:
+
+### Frontend Development
+![Frontend Technologies](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,figma)
+
+### Version Control
+![Version Control](https://skillicons.dev/icons?i=git,github)
+
+### Backend Development
+![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,php,laravel)
+
+### Testing
+![Testing Tools](https://skillicons.dev/icons?i=jest,vitest)
+
+### Databases
+![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sequel)
+
+### DevOps and Infrastructure
+![DevOps Tools](https://skillicons.dev/icons?i=docker,bash,netlify,vercel)
+
+### Development Tools
+![Development Tools](https://skillicons.dev/icons?i=vscode,vite,bun,md)
+
+### Scripting Languages
+![Scripting Languages](https://skillicons.dev/icons?i=py,bash)
+
+### Currently Learning
+![Learning](https://skillicons.dev/icons?i=astro,nextjs)
 
 ## Some of my Projects:
 ### <a href='https://github.com/No-Country/c15-57-ft-react-agregarback'> Animal Preservation - LATAM </a>
