@@ -62,17 +62,22 @@ Find my detailed CV [here](https://raw.githubusercontent.com/FabioDrizZt/FabioDr
     <img src='https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/youtube.jpg' alt='promotional video'/>
 </a>
 
-### [Henry-Bank](https://github.com/FabioDrizZt/Henry-Bank) - E-Wallet Mobile App
-#### Promotional Video:
-[![Click Here](https://img.youtube.com/vi/t1KtkQB5uQ8/0.jpg)](https://www.youtube.com/watch?v=t1KtkQB5uQ8)
+<h3><a href="https://github.com/FabioDrizZt/Henry-Bank">Henry-Bank</a> - E-Wallet Mobile App</h3>
+<h4>Promotional Video:</h4>
+<a href="https://www.youtube.com/watch?v=t1KtkQB5uQ8">
+    <img src="https://img.youtube.com/vi/t1KtkQB5uQ8/0.jpg" alt="Henry-Bank" width="100%">
+</a>
 
-### [Sports-Store](https://github.com/FabioDrizZt/Sports-Store) - E-Commerce Web
-#### Promotional PDF:
-[![Click Here](https://i.imgur.com/zPYlynO.png)](https://drive.google.com/file/d/1E2S9S1wIcEggOzahfIlARxQIjqSEihGI/view?usp=sharing)
+<h3><a href="https://github.com/FabioDrizZt/Sports-Store">Sports-Store</a> - E-Commerce Web</h3>
+<h4>Promotional PDF:</h4>
+<a href="https://drive.google.com/file/d/1E2S9S1wIcEggOzahfIlARxQIjqSEihGI/view?usp=sharing">
+    <img src="https://i.imgur.com/zPYlynO.png" alt="Sports-Store" width="100%">
+</a>
+
 
 ### [Brewery-Six-Beer](https://github.com/FabioDrizZt/Brewery-Six-Beer) - Six-Beer Brewery E-Commerce
 <p align='left'>
-    <img src='https://user-images.githubusercontent.com/65245824/95817516-0a599d80-0cf8-11eb-9eee-d9bdba249a6d.png'>  
+    <img src='https://user-images.githubusercontent.com/65245824/95817516-0a599d80-0cf8-11eb-9eee-d9bdba249a6d.png' width="100%">  
 </p>
 
 ---
