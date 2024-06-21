@@ -18,7 +18,7 @@ Find my detailed CV [here](https://raw.githubusercontent.com/FabioDrizZt/FabioDr
 ## 💻 My Tech Stack:
 
 ### Frontend Development
-![Frontend Technologies](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,figma)
+![Frontend Technologies](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,styledcomponents,figma)
 
 ### Version Control
 ![Version Control](https://skillicons.dev/icons?i=git,github)
