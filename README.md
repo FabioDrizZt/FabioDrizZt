@@ -2,13 +2,16 @@
 
 ### Hi there, I'm Fabio D. Argañaraz! 👋
 
-- 💼 **Current Role:** Full Stack Developer | Computer Science Teacher
-- 😄 **Hobby:** Currently enjoying [Clash Royale](https://royaleapi.com/player/PQ8GVL90), Overwatch, Diablo 4 & Baldur's Gate 3.
+- 💼 Current Role: Full Stack Developer | Computer Science Teacher
+- 📚 Experience: 5 years in web development, specializing in frontend and backend technologies
+- 🌐 Passionate About: Creating efficient, scalable, and user-friendly web applications
+- 🎓 Educator: Dedicated to teaching and mentoring the next generation of developers
 
 ## 📫 You Can Contact Me By:
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/fabiodrizzt) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ing.fabio.arg@gmail.com?subject=Hello%20Fabio,%20From%20Github) &nbsp;
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/70293064240861184) &nbsp;
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/fabiodrizzt) &nbsp;
 
 ### 📄 Curriculum Vitae
@@ -44,6 +47,9 @@ Find my detailed CV [here](https://raw.githubusercontent.com/FabioDrizZt/FabioDr
 ### Currently Learning
 ![Learning](https://skillicons.dev/icons?i=astro,nextjs)
 
+## 🎮 When I'm AFK:
+😄 Hobbies: I'm currently diving into games like Clash Royale, Squad Busters, Counter Strike, Overwatch, Diablo 4, and Baldur's Gate 3.
+
 ## Some of my Projects:
 ### <a href='https://github.com/No-Country/c15-57-ft-react-agregarback'> Animal Preservation - LATAM </a>
 
@@ -55,7 +61,6 @@ Find my detailed CV [here](https://raw.githubusercontent.com/FabioDrizZt/FabioDr
 <a href='https://www.youtube.com/watch?v=LI2rAvHT0Tk'>
     <img src='https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/youtube.jpg' alt='promotional video'/>
 </a>
-
 
 ### [Henry-Bank](https://github.com/FabioDrizZt/Henry-Bank) - E-Wallet Mobile App
 #### Promotional Video:
@@ -70,26 +75,12 @@ Find my detailed CV [here](https://raw.githubusercontent.com/FabioDrizZt/FabioDr
     <img src='https://user-images.githubusercontent.com/65245824/95817516-0a599d80-0cf8-11eb-9eee-d9bdba249a6d.png'>  
 </p>
 
-## Connect with Me:
-
-- [LinkedIn](https://www.linkedin.com/in/FabioDrizZt/)
-- [Codewars](https://www.codewars.com/users/FabioDrizZt)
-- [HackerRank](https://www.hackerrank.com/FabioDrizZt)
-- [Twitter](https://twitter.com/FabioDrizZt)
-- [GitHub](https://github.com/FabioDrizZt)
-- [Facebook](https://www.facebook.com/FabioDrizZt/)
-- [Messenger](https://m.me/FabioDrizZt/)
-- [Instagram](https://www.instagram.com/FabioDrizZt/)
-- [SoloLearn](https://www.sololearn.com/Profile/8888773)
-- Email: [ing.fabio.arg@gmail.com](mailto:ing.fabio.arg@gmail.com)
-- WhatsApp: [Message Me](https://wa.me/543885733294?text=Hola,%20vi%20tu%20perfil%20en%20Github!)
-
 ---
 
 ## Professional Summary:
 
 ### Full Stack Developer | Computer Science Teacher
-Experienced Full Stack Developer with a solid background in web development and 3 years of industry experience. Proficient in technologies such as React, Redux, Typescript, JavaScript, Jest, Node.js, Express.js, MongoDB, PostgreSQL, and more. Currently, also engaged as a Computer Science Teacher, contributing to online education platforms and fostering the next generation of developers.
+Experienced Full Stack Developer with a solid background in web development and 5 years of industry experience. Proficient in technologies such as HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind, React, Node.js, Express.js, MongoDB, MySQL, PostgreSQL, PHP, and Laravel. Skilled in using tools like Git, GitHub, Figma, Docker, Postman, and various development environments including VSCode and Vite. Familiar with testing frameworks such as Jest and Vitest. Currently learning Astro and Next.js. Additionally, I am engaged as a Computer Science Teacher, contributing to online education platforms and fostering the next generation of developers.
 
 ### Work Experience:
 
@@ -155,6 +146,12 @@ Experienced Full Stack Developer with a solid background in web development and 
 
 ---
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=FabioDrizZt&show_icons=true)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=FabioDrizZt&show_icons=true" />
+</p>
+
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FabioDrizZt&label=Profile%20views&color=0e75b6&style=flat" alt="FabioDrizZt" /> </p>
+
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=FabioDrizZt&label=Profile%20views&color=0e75b6&style=flat" alt="FabioDrizZt" /> 
+</p>
