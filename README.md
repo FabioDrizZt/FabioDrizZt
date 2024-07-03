@@ -1,4 +1,4 @@
-![img](https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/img.png)
+![portada](https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/img.png)
 
 ### Hi there, I'm Fabio D. Argañaraz! 👋
 
