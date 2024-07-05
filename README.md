@@ -5,7 +5,7 @@
 - 💼 Current Role: Full Stack Developer | Computer Science Teacher
 - 📚 Experience: 5 years in web development, specializing in frontend and backend technologies
 - 🌐 Passionate About: Creating efficient, scalable, and user-friendly web applications
-- 🎓 Educator: 8 years of experience in teaching programming and informatics, dedicated to mentoring the next generation of developers
+- 🎓 Educator: 8 years of experience in teaching programming and informatics, dedicated to mentoring the next generation
 - 👨‍🎓 Degree: Informatics Engineer from the National University of Jujuy (UNJu) in Argentina
 
 ## 📫 You Can Contact Me By:
