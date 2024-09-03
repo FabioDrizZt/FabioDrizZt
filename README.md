@@ -22,31 +22,31 @@ Find my detailed CV [here](https://raw.githubusercontent.com/FabioDrizZt/FabioDr
 ## 💻 My Tech Stack:
 
 ### Frontend Development
-![Frontend Technologies](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,bootstrap,tailwind,styledcomponents,figma)
+![Frontend Technologies: html,css,sass,js,ts,react,bootstrap,tailwind,styledcomponents,figma](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,bootstrap,tailwind,styledcomponents,figma)
 
 ### Version Control
-![Version Control](https://skillicons.dev/icons?i=git,github,gitlab)
+![Version Control: git,github,gitlab](https://skillicons.dev/icons?i=git,github,gitlab)
 
 ### Backend Development
-![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,php,laravel,java,spring,hibernate,python)
+![Backend Technologies: nodejs,express,php,laravel,java,spring,hibernate,python](https://skillicons.dev/icons?i=nodejs,express,php,laravel,java,spring,hibernate,python)
 
 ### Testing
-![Testing Tools](https://skillicons.dev/icons?i=jest,vitest)
+![Testing Tools: jest,vitest](https://skillicons.dev/icons?i=jest,vitest)
 
 ### Databases
-![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sequel)
+![Databases: mongodb,mysql,postgres,sequel](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sequel)
 
 ### DevOps and Infrastructure
-![DevOps Tools](https://skillicons.dev/icons?i=docker,bash,netlify,vercel)
+![DevOps Tools: docker,bash,netlify,vercel](https://skillicons.dev/icons?i=docker,bash,netlify,vercel)
 
 ### Development Tools
-![Development Tools](https://skillicons.dev/icons?i=vscode,idea,maven,postman,vite,bun,md)
+![Development Tools: vscode,idea,maven,postman,vite,bun,md](https://skillicons.dev/icons?i=vscode,idea,maven,postman,vite,bun,md)
 
 ### Scripting Languages
-![Scripting Languages](https://skillicons.dev/icons?i=py,bash)
+![Scripting Languages; py,bash](https://skillicons.dev/icons?i=py,bash)
 
 ### Currently Learning
-![Learning](https://skillicons.dev/icons?i=astro,nextjs)
+![Learning: astro,nextjs](https://skillicons.dev/icons?i=astro,nextjs)
 
 ## 🎮 When I'm AFK:
 😄 Hobbies: I'm currently diving into games like Clash Royale, Squad Busters, Counter Strike, Overwatch, Diablo 4, and Baldur's Gate 3.
