@@ -25,7 +25,7 @@ Find my detailed CV [here](https://raw.githubusercontent.com/FabioDrizZt/FabioDr
 ![Frontend Technologies](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,bootstrap,tailwind,styledcomponents,figma)
 
 ### Version Control
-![Version Control](https://skillicons.dev/icons?i=git,github)
+![Version Control](https://skillicons.dev/icons?i=git,github,gitlab)
 
 ### Backend Development
 ![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,php,laravel,java,spring,hibernate,python)
@@ -40,7 +40,7 @@ Find my detailed CV [here](https://raw.githubusercontent.com/FabioDrizZt/FabioDr
 ![DevOps Tools](https://skillicons.dev/icons?i=docker,bash,netlify,vercel)
 
 ### Development Tools
-![Development Tools](https://skillicons.dev/icons?i=vscode,idea,maven,vite,bun,md)
+![Development Tools](https://skillicons.dev/icons?i=vscode,idea,maven,postman,vite,bun,md)
 
 ### Scripting Languages
 ![Scripting Languages](https://skillicons.dev/icons?i=py,bash)
