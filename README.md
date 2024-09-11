@@ -17,7 +17,7 @@
 
 ### 📄 Curriculum Vitae
 
-Find my detailed CV [here](https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/Fabio-D-Argañaraz-Resume.pdf).
+Find my detailed CV [here](https://fabiodrizzt.vercel.app/).
 
 ## 💻 My Tech Stack:
 
