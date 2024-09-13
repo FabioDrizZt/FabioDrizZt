@@ -119,12 +119,6 @@ Experienced Full Stack Developer with a solid background in web development and 
    - Front-end development using JavaScript, Typescript, React, Redux, and CSS.
    - Database design and development using PostgreSQL.
 
-#### Full-Stack Web Developer | Zero Q | 5/2021 – 12/2021
-- Contributed to the development of web applications in a team environment.
-- Front-end and back-end development using technologies like JavaScript, Typescript, React, Redux, Node.js, Express, and MongoDB.
-- Collaborated in the design and implementation of front-end and back-end solutions.
-- Worked in an Agile team following Scrum methodologies.
-
 ### Professor of Back-End & Front-End Development | 1/2022 – Present
 - Engaged with multiple online education platforms, including NextU, UCSE-DASS, Digital House, and Digital Mind.
 - Supported in the design and development of updated curricula.
