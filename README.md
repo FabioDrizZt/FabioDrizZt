@@ -28,7 +28,7 @@ Find my detailed CV [here](https://fabiodrizzt.vercel.app/).
 ![Version Control: git,github,gitlab](https://skillicons.dev/icons?i=git,github,gitlab)
 
 ### Backend Development
-![Backend Technologies: nodejs,express,php,laravel,java,spring,hibernate,python](https://skillicons.dev/icons?i=nodejs,express,php,laravel,java,spring,hibernate,python)
+![Backend Technologies: nodejs,express,php,laravel,java,spring,hibernate,python,flask](https://skillicons.dev/icons?i=nodejs,express,php,laravel,java,spring,hibernate,python,flask)
 
 ### Testing
 ![Testing Tools: jest,vitest](https://skillicons.dev/icons?i=jest,vitest)
