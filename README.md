@@ -130,7 +130,6 @@ Experienced Full Stack Developer with a solid background in web development and 
 
 ## Education:
 
-- Full-Stack Web Developer | Henry | 2020 – 2020 (Graduated)
 - Computer Engineering | Universidad Nacional de Jujuy | 2009 - 2015 (Graduated)
 
 ## Courses & Certifications:
