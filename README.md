@@ -152,7 +152,7 @@ Experienced Full Stack Developer with a solid background in web development and 
 ---
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDrizZt\&hide_progress=true&langs_count=8&rank_icon=github&hide=papyrus,hack,shell />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDrizZt\&hide_progress=true&langs_count=8&rank_icon=github&hide=papyrus,hack,shell" />
 </p>
 
 ---
