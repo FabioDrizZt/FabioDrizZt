@@ -151,6 +151,12 @@ Experienced Full Stack Developer with a solid background in web development and 
 
 ---
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDrizZt\&hide_progress=true&langs_count=8&hide=papyrus,hack,shell />
+</p>
+
+---
+
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=FabioDrizZt&label=Profile%20views&color=0e75b6&style=flat" alt="FabioDrizZt" /> 
 </p>
