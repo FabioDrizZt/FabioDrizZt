@@ -136,9 +136,12 @@ Tienda online de artículos deportivos.
 
 ### 🍺 <a href="https://github.com/FabioDrizZt/Brewery-Six-Beer">Brewery-Six-Beer - E-Commerce</a>
 E-commerce para la cervecería Six-Beer.
-<p align='center'>
-  <img src='https://user-images.githubusercontent.com/65245824/95817516-0a599d80-0cf8-11eb-9eee-d9bdba249a6d.png' width="80%">
-</p>
+<details>
+  <summary>🖼️ Ver Imagen del Proyecto</summary>
+  <p align='center'>
+    <img src='https://user-images.githubusercontent.com/65245824/95817516-0a599d80-0cf8-11eb-9eee-d9bdba249a6d.png' width="80%" alt="Imagen del Proyecto Brewery-Six-Beer">
+  </p>
+</details>
 
 ---
 
