@@ -88,26 +88,85 @@ Puedes encontrar mi CV detallado [aquí](https://fabiodrizzt.vercel.app/).
 
 ## ✨ Proyectos Destacados
 
-### Omi-Tronics e-commerce
+### Omi-Tronics - Electronics Store
 
 <details>
-  <summary>🎥 Descripción: "Omi-Tronics - Electronics Store"</summary>
+  <summary>🛒 Descripción: "Omi-Tronics - Electronics Store"</summary>
   <a href='http://omi-tronics.vercel.app/' target="_blank">
-    <img src='https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/omi-tronics.png' alt='Banner Animal Preservation'/>
+    <img src='https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/omi-tronics.png' alt='Imagen Promocional Omi-Tronics'/>
   </a>
   <p align="center">Omi-Tronics es tu tienda online de confianza en tecnología. Encontrá TV-box, consolas, mouses, teclados, auriculares y mucho más, con las mejores marcas y precios competitivos.</p>
 </details>
 
+### Sistema de Gestión Academica 
+
+<details>
+  <summary>🏫 Descripción: "Sistema de Gestión Academica"</summary>
+  <a href='https://gestion-academica.vercel.app/' target="_blank">
+    <img src='https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/sga.png' alt='Imágen promocional del Sistema de Gestión Academica'/>
+  </a>
+  <p align="center"> <strong>Sistema de Gestión Académica</strong> completo y robusto, diseñado para optimizar y digitalizar los procesos educativos de una institución. La plataforma centraliza la información y ofrece una experiencia de usuario intuitiva y diferenciada a través de tres paneles principales, cada uno con funcionalidades específicas para cada rol: <strong>Administración</strong>, <strong>Profesor</strong> y <strong>Alumno</strong>.</p></p>
+
+<hr>
+
+  <details>
+        <summary>Panel de Administración: Control Total y Centralizado</summary>
+        <div class="content">
+          <img src='https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/sga-admin.gif' alt='Imágen promocional del Sistema de Gestión Academica'/>
+            <p>El panel de administración es el núcleo del sistema y proporciona un control exhaustivo sobre todos los aspectos de la vida académica de la institución.</p>
+            <p><strong>Funcionalidades Clave:</strong></p>
+            <ul>
+                <li><strong>Gestión de Usuarios:</strong> Administración completa de los perfiles de <strong>alumnos</strong> y <strong>profesores</strong>, incluyendo altas, bajas y modificaciones de su información personal y académica.</li>
+                <li><strong>Gestión Académica:</strong> Configuración y administración de <strong>carreras</strong>, <strong>materias</strong>, <strong>cursos</strong> y <strong>mesas de exámenes</strong>. Permite una organización flexible y adaptada a las necesidades de la institución.</li>
+                <li><strong>Control de Procesos:</strong> Administración de las <strong>fechas de inscripción</strong> a cursadas y exámenes, asegurando un cronograma ordenado.</li>
+                <li><strong>Administración de Documentación:</strong> Gestión de solicitudes de <strong>certificados de alumno regular</strong> y administración de los <strong>títulos secundarios</strong> de los estudiantes.</li>
+                <li><strong>Visualización Global:</strong> Acceso directo al <strong>Calendario Académico</strong> para una visión general de todas las actividades planificadas.</li>
+            </ul>
+        </div>
+    </details>
+
+
+
+  <details>
+        <summary>Panel del Alumno: Autonomía y Acceso a la Información</summary>
+        <div class="content">
+    <img src='https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/sga-alumno.gif' alt='Imágen promocional del Sistema de Gestión Academica'/>
+            <p>El portal del alumno está enfocado en la autogestión, brindando a los estudiantes acceso directo a toda su información académica y a los procesos clave de su carrera.</p>
+            <p><strong>Funcionalidades Clave:</strong></p>
+            <ul>
+                <li><strong>Inscripciones Online:</strong> Los alumnos pueden <strong>inscribirse a las materias</strong> que deseen cursar y <strong>anotarse en las mesas de exámenes finales</strong> de forma autónoma.</li>
+                <li><strong>Seguimiento Académico:</strong> Acceso a "Mis Cursadas" para visualizar sus materias en curso, notas y condición final, además de poder <strong>consultar su ficha académica</strong> completa para ver su progreso histórico.</li>
+                <li><strong>Historial de Trámites:</strong> Consulta del <strong>registro de todas sus inscripciones</strong> a cursadas y exámenes.</li>
+                <li><strong>Autoservicio de Documentación:</strong> Posibilidad de <strong>generar y descargar certificados de alumno regular</strong> de forma inmediata.</li>
+                <li><strong>Información Clave:</strong> Visualización del <strong>Calendario Académico</strong> para estar al tanto de todas las fechas importantes.</li>
+            </ul>
+        </div>
+    </details>
+  
+</details>
+  <details>
+        <summary>Panel del Profesor: Herramientas para la Enseñanza</summary>
+        <div class="content">
+            <p>Este panel está diseñado para facilitar las tareas diarias de los docentes, permitiéndoles gestionar sus cursos y alumnos de manera eficiente.</p>
+            <p><strong>Funcionalidades Clave:</strong></p>
+            <ul>
+                <li><strong>Consulta de Inscriptos:</strong> Visualización rápida y sencilla de los alumnos inscriptos a sus mesas de examen.</li>
+                <li><strong>Gestión de Cursos:</strong> Acceso a la planilla de inscriptos de cada curso a su cargo, con funcionalidades para el <strong>registro de notas parciales</strong> y la carga de <strong>condiciones finales</strong>.</li>
+                <li><strong>Calendario Académico:</strong> Consulta del cronograma de actividades académicas relevantes.</li>
+                <li><strong>Perfil Personal:</strong> Autogestión de su información de contacto y credenciales de acceso.</li>
+            </ul>
+        </div>
+    </details>
 ### Aula Gamificada
 
-<a href='https://ranking-ayp-c1.vercel.app/' target="_blank">
+<a href='https://ranking-ayp-c2.vercel.app/' target="_blank">
   <img src='https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/Aula%20Gamificada.png' alt='Banner Animal Preservation'/>
 </a>
 
 <details>
   <summary>🎥 Ver Video/gif Promocional: "Aula Gamificada - Algoritmos y Programación"</summary>
   <p align="center">
-    <a href='https://ranking-ayp-c1.vercel.app/' target="_blank">
+    <a href='https://ranking-ayp-c2.vercel.app/' target="_blank">
         <img src='https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/aulaGamificada.gif' alt='Video Promocional del Aula Gamificada' loading="lazy">
     </a>
       
@@ -117,7 +176,7 @@ Puedes encontrar mi CV detallado [aquí](https://fabiodrizzt.vercel.app/).
 
 ### 🐅 <a href='https://github.com/No-Country/c15-57-ft-react-agregarback'>Animal Preservation - LATAM</a>
 Plataforma para la preservación de animales en Latinoamérica.
-<a href='https://c15-57-ft-react-agregarback.vercel.app/' target="_blank">
+<a href='https://preservacion-animal.vercel.app/' target="_blank">
   <img src='https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/BannerPA.png' alt='Banner Animal Preservation'/>
 </a>
 <details>
