@@ -142,9 +142,7 @@ Puedes encontrar mi CV detallado [aquí](https://fabiodrizzt.vercel.app/).
             </ul>
         </div>
     </details>
-  
-</details>
-  <details>
+    <details>
         <summary>Panel del Profesor: Herramientas para la Enseñanza</summary>
         <div class="content">
             <p>Este panel está diseñado para facilitar las tareas diarias de los docentes, permitiéndoles gestionar sus cursos y alumnos de manera eficiente.</p>
@@ -157,6 +155,8 @@ Puedes encontrar mi CV detallado [aquí](https://fabiodrizzt.vercel.app/).
             </ul>
         </div>
     </details>
+</details>
+
 ### Aula Gamificada
 
 <a href='https://ranking-ayp-c2.vercel.app/' target="_blank">
