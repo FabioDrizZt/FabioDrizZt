@@ -88,20 +88,20 @@ Puedes encontrar mi CV detallado [aquí](https://fabiodrizzt.vercel.app/).
 
 ## ✨ Proyectos Destacados
 
-### Omi-Tronics - Electronics Store
+### 🛒 Omi-Tronics - Electronics Store
 
 <details>
-  <summary>🛒 Descripción: "Omi-Tronics - Electronics Store"</summary>
+  <summary>📜 Descripción y acceso a: "Omi-Tronics - Electronics Store"</summary>
   <a href='http://omi-tronics.vercel.app/' target="_blank">
     <img src='https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/omi-tronics.png' alt='Imagen Promocional Omi-Tronics'/>
   </a>
   <p align="center">Omi-Tronics es tu tienda online de confianza en tecnología. Encontrá TV-box, consolas, mouses, teclados, auriculares y mucho más, con las mejores marcas y precios competitivos.</p>
 </details>
 
-### Sistema de Gestión Academica 
+### 🏫 Sistema de Gestión Academica 
 
 <details>
-  <summary>🏫 Descripción: "Sistema de Gestión Academica"</summary>
+  <summary>📜 Descripción: "Sistema de Gestión Academica"</summary>
   <a href='https://gestion-academica.vercel.app/' target="_blank">
     <img src='https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/sga.png' alt='Imágen promocional del Sistema de Gestión Academica'/>
   </a>
