@@ -62,6 +62,8 @@ Puedes encontrar mi CV detallado [aquí](https://fabiodrizzt.vercel.app/).
   <summary><strong>🚀 DevOps & Infrastructure</strong></summary>
   <p align="left">
     <img src="https://skillicons.dev/icons?i=docker,bash,netlify,vercel" alt="DevOps Tools"/>
+    <br/>
+    <strong>Experiencia en:</strong> Docker, Bash scripting, Netlify, Vercel, CI/CD, deployment automatizado
   </p>
 </details>
 
@@ -69,6 +71,8 @@ Puedes encontrar mi CV detallado [aquí](https://fabiodrizzt.vercel.app/).
   <summary><strong>🔧 Development Tools</strong></summary>
   <p align="left">
     <img src="https://skillicons.dev/icons?i=vscode,idea,maven,postman,vite,bun,md" alt="Development Tools"/>
+    <br/>
+    <strong>Especializado en:</strong> Visual Studio Code, IntelliJ IDEA, Postman, Vite, Bun, Maven, Markdown
   </p>
 </details>
 
@@ -80,9 +84,29 @@ Puedes encontrar mi CV detallado [aquí](https://fabiodrizzt.vercel.app/).
 </details>
 
 <details>
+  <summary><strong>🤖 Herramientas de IA para Desarrolladores</strong></summary>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=vercel,github" alt="AI Tools"/>
+    <br/>
+    <strong>Especializado en:</strong> GitHub Copilot, Claude, Cursor AI, V0.dev y otras herramientas de desarrollo asistido por IA
+  </p>
+</details>
+
+<details>
+  <summary><strong>🚀 Frameworks Avanzados</strong></summary>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=astro,nextjs" alt="Advanced Frameworks"/>
+    <br/>
+    <strong>Dominio completo en:</strong> Astro (SSG/SSR), Next.js (App Router, Server Components, API Routes)
+  </p>
+</details>
+
+<details>
   <summary><strong>🌱 Actualmente Aprendiendo</strong></summary>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=astro,nextjs" alt="Currently Learning"/>
+    <img src="https://skillicons.dev/icons?i=go" alt="Currently Learning"/>
+    <br/>
+    <strong>Explorando:</strong> Go (Golang) - Desarrollo de microservicios y aplicaciones de alto rendimiento
   </p>
 </details>
 
@@ -105,7 +129,7 @@ Puedes encontrar mi CV detallado [aquí](https://fabiodrizzt.vercel.app/).
   <a href='https://gestion-academica.vercel.app/' target="_blank">
     <img src='https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/sga.png' alt='Imágen promocional del Sistema de Gestión Academica'/>
   </a>
-  <p align="center"> <strong>Sistema de Gestión Académica</strong> completo y robusto, diseñado para optimizar y digitalizar los procesos educativos de una institución. La plataforma centraliza la información y ofrece una experiencia de usuario intuitiva y diferenciada a través de tres paneles principales, cada uno con funcionalidades específicas para cada rol: <strong>Administración</strong>, <strong>Profesor</strong> y <strong>Alumno</strong>.</p></p>
+  <p align="center"> <strong>Sistema de Gestión Académica</strong> completo y robusto, diseñado para optimizar y digitalizar los procesos educativos de una institución. La plataforma centraliza la información y ofrece una experiencia de usuario intuitiva y diferenciada a través de tres paneles principales, cada uno con funcionalidades específicas para cada rol: <strong>Administración</strong>, <strong>Profesor</strong> y <strong>Alumno</strong>.</p>
 
 <hr>
 
@@ -171,7 +195,7 @@ Puedes encontrar mi CV detallado [aquí](https://fabiodrizzt.vercel.app/).
     </a>
       
   </p>
-  <p align="center">Este video destaca las funcionalidades del aula gamificada aplicada a la materia 'Algoritmos y Programación' para alumnos de primer año, motivando el aprendizaje y la autosuperación, sumando quizizz interactivos para reforzar contenidos teoricos y el trabajo en grupo para superar ejercitaciones prácticas en los fundamentos de programación</p>
+  <p align="center">Este video destaca las funcionalidades del aula gamificada aplicada a la materia 'Algoritmos y Programación' para alumnos de primer año, motivando el aprendizaje y la autosuperación, sumando quizizz interactivos para reforzar contenidos teóricos y el trabajo en grupo para superar ejercitaciones prácticas en los fundamentos de programación.</p>
 </details>
 
 ### 🐅 <a href='https://github.com/No-Country/c15-57-ft-react-agregarback'>Animal Preservation - LATAM</a>
@@ -231,7 +255,7 @@ E-commerce para la cervecería Six-Beer.
 
 ## 💼 Resumen Profesional
 
-Desarrollador Full Stack con 5 años de experiencia en la industria y una sólida trayectoria en tecnologías web como React, Node.js, Express, MongoDB, SQL, PHP y Laravel. Competente en el uso de herramientas como Git, Docker y Figma. Además, me desempeño como Profesor de Informática, colaborando con plataformas educativas online y guiando a futuros desarrolladores. Actualmente explorando Astro y Next.js.
+Desarrollador Full Stack con 5 años de experiencia en la industria y una sólida trayectoria en tecnologías web modernas como React, Node.js, Express, MongoDB, SQL, PHP y Laravel. Especializado en frameworks avanzados como Astro y Next.js, con dominio completo en desarrollo de aplicaciones SSR/SSG y optimización de rendimiento. Experto en herramientas de IA para desarrolladores, incluyendo ChatGPT, GitHub Copilot, Claude y Cursor AI, lo que me permite acelerar el desarrollo y crear soluciones más eficientes. Competente en el uso de herramientas como Git, Docker y Figma. Además, me desempeño como Profesor de Informática, colaborando con plataformas educativas online y guiando a futuros desarrolladores en las últimas tendencias tecnológicas.
 
 <details>
   <summary><strong>Ver Experiencia Laboral Detallada</strong></summary>
@@ -240,10 +264,11 @@ Desarrollador Full Stack con 5 años de experiencia en la industria y una sólid
 
 #### Full-Stack Web Developer | Freelance | Ene 2022 – Actualidad
 - Proyectos freelance en plataformas como UpWork, Fiverr y PeoplePerHour.
-- Desarrollo de aplicaciones web con enfoque en front-end (JavaScript, Typescript, React, Redux) y back-end (Node.js, Express).
-- Colaboración con clientes para entender requerimientos y entregar soluciones de alta calidad.
+- Desarrollo de aplicaciones web modernas con enfoque en front-end (JavaScript, TypeScript, React, Redux, Astro, Next.js) y back-end (Node.js, Express).
+- Implementación de herramientas de IA para optimizar el flujo de desarrollo y mejorar la productividad.
+- Colaboración con clientes para entender requerimientos y entregar soluciones de alta calidad y rendimiento.
 - Gestión de cronogramas, comunicación efectiva y entrega puntual de proyectos.
-- **Tecnologías Clave:** JavaScript, Typescript, React, Redux, CSS, Node.js, Express, PostgreSQL, MongoDB.
+- **Tecnologías Clave:** JavaScript, TypeScript, React, Redux, Astro, Next.js, CSS, Node.js, Express, PostgreSQL, MongoDB, GitHub Copilot, ChatGPT, Claude.
 
 ##### Proyectos Destacados (Freelance):
 1.  **App de Gestión Interna:**
@@ -266,12 +291,12 @@ Desarrollador Full Stack con 5 años de experiencia en la industria y una sólid
 
 #### Profesor de Desarrollo Back-End & Front-End | Ene 2022 – Actualidad
 - Colaboración con múltiples plataformas de educación online: NextU, UCSE-DASS, Digital House, Digital Mind.
-- Apoyo en el diseño y desarrollo de currículas actualizadas.
+- Apoyo en el diseño y desarrollo de currículas actualizadas incluyendo frameworks modernos (Astro, Next.js) y herramientas de IA.
 - Feedback continuo y asistencia técnica a estudiantes.
-- Desarrollo de material didáctico y currículas.
-- Facilitación de conocimiento teórico y práctico en desarrollo web.
-- Asesoramiento y guía a estudiantes en proyectos y trabajos prácticos.
-- Evaluación y feedback para impulsar el progreso estudiantil.
+- Desarrollo de material didáctico y currículas enfocadas en las últimas tendencias tecnológicas.
+- Facilitación de conocimiento teórico y práctico en desarrollo web y uso de IA para desarrolladores.
+- Asesoramiento y guía a estudiantes en proyectos y trabajos prácticos utilizando herramientas de desarrollo asistido por IA.
+- Evaluación y feedback para impulsar el progreso estudiantil y adaptación a nuevas tecnologías.
 </details>
 
 <details>
@@ -283,6 +308,12 @@ Desarrollador Full Stack con 5 años de experiencia en la industria y una sólid
 
 ## 📜 Cursos y Certificaciones
 
+- Django Web Framework | Pluralsight, 2022.
+- Python Advanced Programming | Real Python, 2022.
+- Python for Data Science & Machine Learning | Coursera, 2022.
+- Spring Security & Microservices | Pluralsight, 2021.
+- Spring Framework & Spring Boot | Udemy, 2021.
+- Java Enterprise Development | Oracle University, 2021.
 - Introducción a la Gestión Ágil de Proyectos con Azure DevOps | UCSE, 2020.
 - React and Redux | Sololearn, 2020.
 - CSS | Sololearn, 2019.
