@@ -87,8 +87,10 @@ Puedes encontrar mi CV detallado [aquí](https://fabiodrizzt.vercel.app/).
 </details>
 
 ## ✨ Proyectos Destacados
-
+ 
+  <a href='http://omi-tronics.vercel.app/' target="_blank">
 ### 🛒 Omi-Tronics - Electronics Store
+  </a>
 
 <details>
   <summary>📜 Descripción y acceso a: "Omi-Tronics - Electronics Store"</summary>
