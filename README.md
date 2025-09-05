@@ -88,9 +88,7 @@ Puedes encontrar mi CV detallado [aquí](https://fabiodrizzt.vercel.app/).
 
 ## ✨ Proyectos Destacados
  
-  <a href='http://omi-tronics.vercel.app/' target="_blank">
-### 🛒 Omi-Tronics - Electronics Store
-  </a>
+### [🛒 Omi-Tronics - Electronics Store](http://omi-tronics.vercel.app/)
 
 <details>
   <summary>📜 Descripción y acceso a: "Omi-Tronics - Electronics Store"</summary>
@@ -100,7 +98,7 @@ Puedes encontrar mi CV detallado [aquí](https://fabiodrizzt.vercel.app/).
   <p align="center">Omi-Tronics es tu tienda online de confianza en tecnología. Encontrá TV-box, consolas, mouses, teclados, auriculares y mucho más, con las mejores marcas y precios competitivos.</p>
 </details>
 
-### 🏫 Sistema de Gestión Academica 
+### [🏫 Sistema de Gestión Academica](https://gestion-academica.vercel.app/)
 
 <details>
   <summary>📜 Descripción: "Sistema de Gestión Academica"</summary>
@@ -159,7 +157,7 @@ Puedes encontrar mi CV detallado [aquí](https://fabiodrizzt.vercel.app/).
     </details>
 </details>
 
-### Aula Gamificada
+### [🎮 Aula Gamificada](https://ranking-ayp-c2.vercel.app/)
 
 <a href='https://ranking-ayp-c2.vercel.app/' target="_blank">
   <img src='https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/Aula%20Gamificada.png' alt='Banner Animal Preservation'/>
