@@ -90,19 +90,12 @@ Puedes encontrar mi CV detallado [aquí](https://fabiodrizzt.vercel.app/).
 
 ### Omi-Tronics e-commerce
 
-<a href='http://omi-tronics.vercel.app/' target="_blank">
-  <img src='https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/Aula%20Gamificada.png' alt='Banner Animal Preservation'/>
-</a>
-
 <details>
-  <summary>🎥 Imagen Promocional: "Omi-Tronics - Electronics Store"</summary>
-  <p align="center">
-    <a href='http://omi-tronics.vercel.app/' target="_blank">
-        <img src='https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/omi-tronics.png' alt='Imagen Promocional de omi-tronics' loading="lazy">
-    </a>
-      
-  </p>
-  <p align="center">Este video destaca las funcionalidades del aula gamificada aplicada a la materia 'Algoritmos y Programación' para alumnos de primer año, motivando el aprendizaje y la autosuperación, sumando quizizz interactivos para reforzar contenidos teoricos y el trabajo en grupo para superar ejercitaciones prácticas en los fundamentos de programación</p>
+  <summary>🎥 Descripción: "Omi-Tronics - Electronics Store"</summary>
+  <a href='http://omi-tronics.vercel.app/' target="_blank">
+    <img src='https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/omi-tronics.png' alt='Banner Animal Preservation'/>
+  </a>
+  <p align="center">Omi-Tronics es tu tienda online de confianza en tecnología. Encontrá TV-box, consolas, mouses, teclados, auriculares y mucho más, con las mejores marcas y precios competitivos.</p>
 </details>
 
 ### Aula Gamificada
