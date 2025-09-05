@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/img.png" alt="Portada Fabio D. Argañaraz"/>
-</p>
+<img src="https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/img.png" alt="Portada Fabio D. Argañaraz"/>
 
 <h1 align="center">¡Hola! Soy Fabio D. Argañaraz 👋</h1>
 
@@ -89,6 +87,23 @@ Puedes encontrar mi CV detallado [aquí](https://fabiodrizzt.vercel.app/).
 </details>
 
 ## ✨ Proyectos Destacados
+
+### Aula Gamificada
+
+<a href='https://ranking-ayp-c1.vercel.app/' target="_blank">
+  <img src='https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/Aula%20Gamificada.png' alt='Banner Animal Preservation'/>
+</a>
+
+<details>
+  <summary>🎥 Ver Video/gif Promocional: "Aula Gamificada - Algoritmos y Programación"</summary>
+  <p align="center">
+    <a href='https://ranking-ayp-c1.vercel.app/' target="_blank">
+        <img src='https://raw.githubusercontent.com/FabioDrizZt/FabioDrizZt/main/aulaGamificada.gif' alt='Video Promocional del Aula Gamificada' loading="lazy">/>
+    </a>
+      
+  </p>
+  <p align="center">Este video destaca las funcionalidades del aula gamificada aplicada a la materia 'Algoritmos y Programación' para alumnos de primer año, motivando el aprendizaje y la autosuperación, sumando quizizz interactivos para reforzar contenidos teoricos y el trabajo en grupo para superar ejercitaciones prácticas en los fundamentos de programación</p>
+</details>
 
 ### 🐅 <a href='https://github.com/No-Country/c15-57-ft-react-agregarback'>Animal Preservation - LATAM</a>
 Plataforma para la preservación de animales en Latinoamérica.
