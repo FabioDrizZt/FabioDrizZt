@@ -41,6 +41,8 @@ Puedes encontrar mi CV detallado [aquí](https://fabiodrizzt.vercel.app/).
   <summary><strong>⚙️ Backend Development</strong></summary>
   <p align="left">
     <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,java,spring,hibernate,python,flask" alt="Backend Technologies"/>
+    <br/>
+    <strong>Especializado en:</strong> Java/Spring Boot, Spring Security, microservicios, Node.js, Express, PHP/Laravel, Python/Flask
   </p>
 </details>
 
@@ -48,6 +50,8 @@ Puedes encontrar mi CV detallado [aquí](https://fabiodrizzt.vercel.app/).
   <summary><strong>🧪 Testing</strong></summary>
   <p align="left">
     <img src="https://skillicons.dev/icons?i=jest,vitest" alt="Testing Tools"/>
+    <br/>
+    <strong>Experiencia en:</strong> Jest, Vitest - Pruebas unitarias y de integración
   </p>
 </details>
 
@@ -55,6 +59,8 @@ Puedes encontrar mi CV detallado [aquí](https://fabiodrizzt.vercel.app/).
   <summary><strong>🛢️ Databases</strong></summary>
   <p align="left">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sequel" alt="Databases"/>
+    <br/>
+    <strong>Experiencia sólida en:</strong> PostgreSQL (diseño de esquemas relacionales y optimización de consultas), MongoDB, MySQL
   </p>
 </details>
 
@@ -63,7 +69,7 @@ Puedes encontrar mi CV detallado [aquí](https://fabiodrizzt.vercel.app/).
   <p align="left">
     <img src="https://skillicons.dev/icons?i=docker,bash,netlify,vercel" alt="DevOps Tools"/>
     <br/>
-    <strong>Experiencia en:</strong> Docker, Bash scripting, Netlify, Vercel, CI/CD, deployment automatizado
+    <strong>Experiencia en:</strong> Docker (containerización y deployment), Bash scripting, Netlify, Vercel, CI/CD, deployment automatizado
   </p>
 </details>
 
@@ -107,6 +113,16 @@ Puedes encontrar mi CV detallado [aquí](https://fabiodrizzt.vercel.app/).
     <img src="https://skillicons.dev/icons?i=go" alt="Currently Learning"/>
     <br/>
     <strong>Explorando:</strong> Go (Golang) - Desarrollo de microservicios y aplicaciones de alto rendimiento
+  </p>
+</details>
+
+<details>
+  <summary><strong>📋 Metodologías y Prácticas</strong></summary>
+  <p align="left">
+    <strong>Metodologías Ágiles:</strong> Scrum, Kanban - Experiencia en equipos colaborativos<br/>
+    <strong>Code Reviews:</strong> Mantenimiento de calidad de código<br/>
+    <strong>Testing:</strong> Jest, Vitest para pruebas unitarias<br/>
+    <strong>Comunicación:</strong> Habilidades sólidas de trabajo en equipo y mentoría
   </p>
 </details>
 
@@ -255,7 +271,7 @@ E-commerce para la cervecería Six-Beer.
 
 ## 💼 Resumen Profesional
 
-Desarrollador Full Stack con 5 años de experiencia en la industria y una sólida trayectoria en tecnologías web modernas como React, Node.js, Express, MongoDB, SQL, PHP y Laravel. Especializado en frameworks avanzados como Astro y Next.js, con dominio completo en desarrollo de aplicaciones SSR/SSG y optimización de rendimiento. Experto en herramientas de IA para desarrolladores, incluyendo ChatGPT, GitHub Copilot, Claude y Cursor AI, lo que me permite acelerar el desarrollo y crear soluciones más eficientes. Competente en el uso de herramientas como Git, Docker y Figma. Además, me desempeño como Profesor de Informática, colaborando con plataformas educativas online y guiando a futuros desarrolladores en las últimas tendencias tecnológicas.
+Desarrollador Full Stack con 5 años de experiencia en la industria y una sólida trayectoria en tecnologías web modernas como React, Node.js, Express, Java/Spring, PostgreSQL, MongoDB, SQL, PHP y Laravel. Especializado en frameworks avanzados como Astro y Next.js, con dominio completo en desarrollo de aplicaciones SSR/SSG y optimización de rendimiento. Experto en arquitecturas escalables y metodologías ágiles (Scrum, Kanban), con sólida experiencia en Java/Spring Boot y Spring Security para desarrollo enterprise. Experto en herramientas de IA para desarrolladores, incluyendo ChatGPT, GitHub Copilot, Claude y Cursor AI, lo que me permite acelerar el desarrollo y crear soluciones más eficientes. Competente en el uso de herramientas como Git, Docker y Figma. Además, me desempeño como Profesor de Informática, colaborando con plataformas educativas online y guiando a futuros desarrolladores en las últimas tendencias tecnológicas.
 
 <details>
   <summary><strong>Ver Experiencia Laboral Detallada</strong></summary>
@@ -264,11 +280,15 @@ Desarrollador Full Stack con 5 años de experiencia en la industria y una sólid
 
 #### Full-Stack Web Developer | Freelance | Ene 2022 – Actualidad
 - Proyectos freelance en plataformas como UpWork, Fiverr y PeoplePerHour.
-- Desarrollo de aplicaciones web modernas con enfoque en front-end (JavaScript, TypeScript, React, Redux, Astro, Next.js) y back-end (Node.js, Express).
+- Desarrollo de aplicaciones web modernas con enfoque en front-end (JavaScript, TypeScript, React, Redux, Astro, Next.js) y back-end (Node.js, Express, Java/Spring).
+- Implementación de arquitecturas escalables con PostgreSQL y MongoDB.
+- Colaboración con equipos de producto para definir y crear nuevas funcionalidades.
+- Optimización de aplicaciones para máxima velocidad y escalabilidad.
+- Participación en el ciclo completo de desarrollo: concepción, implementación y mantenimiento.
 - Implementación de herramientas de IA para optimizar el flujo de desarrollo y mejorar la productividad.
 - Colaboración con clientes para entender requerimientos y entregar soluciones de alta calidad y rendimiento.
 - Gestión de cronogramas, comunicación efectiva y entrega puntual de proyectos.
-- **Tecnologías Clave:** JavaScript, TypeScript, React, Redux, Astro, Next.js, CSS, Node.js, Express, PostgreSQL, MongoDB, GitHub Copilot, ChatGPT, Claude.
+- **Tecnologías Clave:** JavaScript, TypeScript, React, Redux, Astro, Next.js, CSS, Node.js, Express, Java, Spring Boot, PostgreSQL, MongoDB, GitHub Copilot, ChatGPT, Claude.
 
 ##### Proyectos Destacados (Freelance):
 1.  **App de Gestión Interna:**
@@ -289,9 +309,11 @@ Desarrollador Full Stack con 5 años de experiencia en la industria y una sólid
     * Desarrollo front-end con JavaScript, Typescript, React, Redux y CSS.
     * Diseño y desarrollo de BBDD con PostgreSQL.
 
-#### Profesor de Desarrollo Back-End & Front-End | Ene 2022 – Actualidad
-- Colaboración con múltiples plataformas de educación online: NextU, UCSE-DASS, Digital House, Digital Mind.
+#### Profesor de Desarrollo Full Stack | Ene 2022 – Actualidad
+- Enseñanza de React.js, Java/Spring y metodologías ágiles.
+- Colaboración con múltiples plataformas de educación online: NextU, UCSE-DASS, Ada-School, Digital House, Digital Mind.
 - Apoyo en el diseño y desarrollo de currículas actualizadas incluyendo frameworks modernos (Astro, Next.js) y herramientas de IA.
+- Mentoría a desarrolladores junior en mejores prácticas de código.
 - Feedback continuo y asistencia técnica a estudiantes.
 - Desarrollo de material didáctico y currículas enfocadas en las últimas tendencias tecnológicas.
 - Facilitación de conocimiento teórico y práctico en desarrollo web y uso de IA para desarrolladores.
@@ -305,6 +327,7 @@ Desarrollador Full Stack con 5 años de experiencia en la industria y una sólid
 ## 🎓 Educación
 
 - **Ingeniería en Informática** | Universidad Nacional de Jujuy | 2009 - 2015 (Graduado)
+  - 🏆 **Medalla al Mejor Promedio de la Carrera** - Reconocimiento académico por excelencia académica
 
 ## 📜 Cursos y Certificaciones
 
@@ -339,4 +362,10 @@ Mis hobbies actuales incluyen juegos como Clash Royale, Squad Busters, Counter S
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FabioDrizZt&label=Vistas%20del%20Perfil&color=0e75b6&style=flat" alt="Contador de Vistas del Perfil de FabioDrizZt"/>
+</p>
+
+---
+
+<p align="center">
+  <strong>💼 Disponible para trabajo remoto en Argentina | Full Time como freelancer</strong>
 </p>
