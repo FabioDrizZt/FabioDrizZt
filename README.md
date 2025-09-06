@@ -278,47 +278,145 @@ Desarrollador Full Stack con 5 años de experiencia en la industria y una sólid
 
 ### Experiencia Laboral
 
-#### Full-Stack Web Developer | Freelance | Ene 2022 – Actualidad
-- Proyectos freelance en plataformas como UpWork, Fiverr y PeoplePerHour.
-- Desarrollo de aplicaciones web modernas con enfoque en front-end (JavaScript, TypeScript, React, Redux, Astro, Next.js) y back-end (Node.js, Express, Java/Spring).
-- Implementación de arquitecturas escalables con PostgreSQL y MongoDB.
-- Colaboración con equipos de producto para definir y crear nuevas funcionalidades.
-- Optimización de aplicaciones para máxima velocidad y escalabilidad.
-- Participación en el ciclo completo de desarrollo: concepción, implementación y mantenimiento.
-- Implementación de herramientas de IA para optimizar el flujo de desarrollo y mejorar la productividad.
-- Colaboración con clientes para entender requerimientos y entregar soluciones de alta calidad y rendimiento.
-- Gestión de cronogramas, comunicación efectiva y entrega puntual de proyectos.
-- **Tecnologías Clave:** JavaScript, TypeScript, React, Redux, Astro, Next.js, CSS, Node.js, Express, Java, Spring Boot, PostgreSQL, MongoDB, GitHub Copilot, ChatGPT, Claude.
+<details>
+  <summary><strong>🎓 Experiencia Académica y Docente (2016 - Actualidad)</strong></summary>
 
-##### Proyectos Destacados (Freelance):
-1.  **App de Gestión Interna:**
-    * Control de turnos de personal.
-    * Validación de usuarios y gestión de BBDD con MongoDB.
-    * Desarrollo front-end con React, testing unitario con Jest.
-2.  **Startup de Productos Artesanales:**
-    * Análisis de requerimientos e implementación.
-    * Gestión de inventario para exhibición de productos.
-    * Desarrollo front-end con JavaScript, Typescript y React.
-    * Desarrollo back-end con Node.js.
-3.  **App de Control Interno:**
-    * Sistema para gestión de turnos y servidores.
-    * Consultas en tiempo real y monitoreo de errores.
-    * Gráficas estadísticas en front-end con React y Typescript.
-    * Desarrollo back-end con Node.js y MongoDB.
-4.  **App para Refugios de Animales:**
-    * Desarrollo front-end con JavaScript, Typescript, React, Redux y CSS.
-    * Diseño y desarrollo de BBDD con PostgreSQL.
+<details>
+  <summary><strong>Posiciones Actuales (2022 - Actualidad)</strong></summary>
 
-#### Profesor de Desarrollo Full Stack | Ene 2022 – Actualidad
-- Enseñanza de React.js, Java/Spring y metodologías ágiles.
-- Colaboración con múltiples plataformas de educación online: NextU, UCSE-DASS, Ada-School, Digital House, Digital Mind.
-- Apoyo en el diseño y desarrollo de currículas actualizadas incluyendo frameworks modernos (Astro, Next.js) y herramientas de IA.
-- Mentoría a desarrolladores junior en mejores prácticas de código.
-- Feedback continuo y asistencia técnica a estudiantes.
-- Desarrollo de material didáctico y currículas enfocadas en las últimas tendencias tecnológicas.
-- Facilitación de conocimiento teórico y práctico en desarrollo web y uso de IA para desarrolladores.
-- Asesoramiento y guía a estudiantes en proyectos y trabajos prácticos utilizando herramientas de desarrollo asistido por IA.
-- Evaluación y feedback para impulsar el progreso estudiantil y adaptación a nuevas tecnologías.
+##### Professor - Full Stack Web Programming MERN, Models and Simulation, Computer Science, Fundamentals of AI | [Universidad Católica de Santiago del Estero](https://www.ucse.edu.ar/) | Sep 2017 – Actualidad
+- Liderazgo en el desarrollo del currículo de Programación Web Full Stack usando el stack MERN.
+- Supervisión de proyectos basados en IA y facilitación de aprendizaje basado en simulación en el curso de Modelos y Simulación para estudiantes de Ciencias de la Computación.
+
+##### Professor - Full Stack Development | [ADA School](https://ada-school.org/) | Feb 2024 – Actualidad
+- Enseñanza de desarrollo full-stack con enfoque en Java, Spring Boot, H2, MongoDB y PostgreSQL en entorno de aprendizaje remoto.
+- Utilización de herramientas y tecnologías modernas para una educación integral en desarrollo full-stack.
+
+##### Professor - Full Stack Web Development | [Universidad Nacional de Tres de Febrero](https://untref.edu.ar/) | May 2023 – Actualidad
+- Creación de materiales de curso y ejercicios prácticos enfocados en HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, SQL, MySQL y JWT.
+- Proporcionar una experiencia de aprendizaje integral en construcción y seguridad de aplicaciones web.
+
+##### Professor - Full Stack Web Development | [DigitalMind](https://www.soydigitalmind.com/) | May 2022 – Actualidad
+- Desarrollo de materiales de curso y ejercicios para desarrollo frontend con React.
+- Enseñanza de desarrollo backend usando PHP, Laravel y sistemas de control de versiones.
+- Integración de frontend y backend para construir aplicaciones full-stack robustas.
+
+</details>
+
+<details>
+  <summary><strong>Posiciones Anteriores (2016 - 2024)</strong></summary>
+
+##### Professor - Introduction to Computer Science as a Management Tool | [Ledesma](https://www.ledesma.com.ar/) | May 2021 – Jul 2024
+- Colaboración con la Universidad Nacional de Jujuy en el Programa de Innovación y Tecnología de Ledesma.
+- Enseñanza de conceptos clave como interfaces de usuario, control de versiones, hardware y redes.
+
+##### Professor - Full Stack Development | [Next U](https://www.linkedin.com/company/next-u-open-education) | May 2022 – May 2024
+- Liderazgo en cursos de desarrollo web Full Stack enfocados en Java, Spring Boot y React.
+- Guía a estudiantes en la construcción de aplicaciones full-stack con backend Spring Boot y frontend React.
+
+##### Professor - Certified Tech Developer | [Digital House](https://www.digitalhouse.com/ar/) | Ene 2021 – Abr 2021
+- Enseñanza de habilidades técnicas y blandas fundamentales en el programa Certified Tech Developer.
+- Colaboración con Mercado Libre y Globant.
+
+##### Professor - Introduction to Computer Science, Database I, Database II, Programming Methodology | [Faculty of Engineering - UNJu](https://www.fi.unju.edu.ar/) | May 2016 – Dic 2019
+- Enseñanza de metodologías de programación y bases de datos en el programa de Ingeniería en Informática de la Universidad Nacional de Jujuy.
+
+</details>
+
+</details>
+
+<details>
+  <summary><strong>💼 Experiencia Profesional</strong></summary>
+
+<details>
+  <summary><strong>🚀 Proyectos Destacados 2025 | Next.js & Supabase</strong></summary>
+
+- Desarrollo de aplicaciones web modernas utilizando Next.js 14+ con App Router y Supabase como backend completo.
+- **Tecnologías utilizadas:** Next.js, Supabase, TypeScript, Tailwind CSS, React Server Components, API Routes.
+
+<details>
+  <summary><strong>🛒 Omi-Tronics - Electronics Store</strong></summary>
+
+- **URL:** [omi-tronics.vercel.app](http://omi-tronics.vercel.app/)
+- **Descripción:** Tienda online de tecnología con TV-box, consolas, mouses, teclados, auriculares y más.
+- **Características:** E-commerce completo con carrito de compras, gestión de productos, y sistema de pagos integrado.
+- **Stack:** Next.js, Supabase, TypeScript, Tailwind CSS
+
+</details>
+
+<details>
+  <summary><strong>🏫 Sistema de Gestión Académica</strong></summary>
+
+- **URL:** [gestion-academica.vercel.app](https://gestion-academica.vercel.app/)
+- **Descripción:** Sistema completo para optimizar y digitalizar procesos educativos con tres paneles: Administración, Profesor y Alumno.
+- **Características:** 
+  - Panel de Administración: Gestión de usuarios, carreras, materias, cursos y mesas de exámenes
+  - Panel del Alumno: Inscripciones online, seguimiento académico, autoservicio de documentación
+  - Panel del Profesor: Consulta de inscriptos, gestión de cursos, registro de notas
+- **Stack:** Next.js, Supabase, TypeScript, Tailwind CSS
+
+</details>
+
+<details>
+  <summary><strong>🎮 Aula Gamificada</strong></summary>
+
+- **URL:** [ranking-ayp-c2.vercel.app](https://ranking-ayp-c2.vercel.app/)
+- **Descripción:** Plataforma gamificada para la materia 'Algoritmos y Programación' con sistema de ranking y motivación estudiantil.
+- **Características:** Sistema de puntuación, quizizz interactivos, trabajo en grupo, ejercitaciones prácticas.
+- **Stack:** Next.js, Supabase, TypeScript, Tailwind CSS
+
+</details>
+
+</details>
+
+<details>
+  <summary><strong>Full Stack Web Developer | Freelance | Ene 2022 – Oct 2023</strong></summary>
+
+- Completé múltiples proyectos freelance, desarrollando aplicaciones full-stack como App de Gestión Interna, App para Refugios de Animales y sistema de gestión de inventario.
+- **Tecnologías utilizadas:** React, Node.js, MongoDB, PostgreSQL, JavaScript, TypeScript.
+
+<details>
+  <summary><strong>Proyectos Destacados</strong></summary>
+
+- **App de Gestión Interna:** Control de turnos de personal, validación de usuarios y gestión de BBDD con MongoDB, desarrollo front-end con React y testing unitario con Jest.
+- **Startup de Productos Artesanales:** Análisis de requerimientos, gestión de inventario, desarrollo front-end con JavaScript, TypeScript y React, desarrollo back-end con Node.js.
+- **App de Control Interno:** Sistema para gestión de turnos y servidores, consultas en tiempo real, monitoreo de errores, gráficas estadísticas en front-end con React y TypeScript, desarrollo back-end con Node.js y MongoDB.
+- **App para Refugios de Animales:** Desarrollo front-end con JavaScript, TypeScript, React, Redux y CSS, diseño y desarrollo de BBDD con PostgreSQL.
+
+</details>
+
+</details>
+
+<details>
+  <summary><strong>Technological Referent | UNICEF Argentina | May 2018 – Dic 2018</strong></summary>
+
+- Coordinación de equipos técnicos y provisión de capacitación en mantenimiento de redes para escuelas secundarias rurales.
+- Colaboración con UNICEF y el Ministerio de Educación de Jujuy.
+
+</details>
+
+<details>
+  <summary><strong>Instructor | Plan 111 Mil | Sep 2017 – Dic 2018</strong></summary>
+
+- Enseñanza de técnicas de programación, programación orientada a objetos, bases de datos y desarrollo de software.
+- **Tecnologías:** Java, MySQL, PseInt como parte del Plan Nacional 111 Mil.
+
+</details>
+
+</details>
+
+<details>
+  <summary><strong>🚀 Resumen de Competencias Clave</strong></summary>
+
+- **Desarrollo Full Stack:** JavaScript, TypeScript, React, Redux, Astro, Next.js, Node.js, Express, Java, Spring Boot, PHP, Laravel
+- **Bases de Datos:** PostgreSQL, MongoDB, MySQL, H2
+- **Herramientas de IA:** GitHub Copilot, ChatGPT, Claude, Cursor AI
+- **Metodologías:** Scrum, Kanban, Code Reviews, Testing (Jest, Vitest)
+- **DevOps:** Docker, CI/CD, deployment automatizado
+- **Educación:** 8+ años de experiencia docente en múltiples instituciones
+
+</details>
+
 </details>
 
 <details>
